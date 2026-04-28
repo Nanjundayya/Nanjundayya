@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Student<br>
+working for feature<br>
 
 
 ## 🌐 Socials:
